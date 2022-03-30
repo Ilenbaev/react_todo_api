@@ -1,0 +1,20 @@
+.box {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: grey;
+}
+.modal {
+  margin: 70px auto;
+  padding-top: 30px;
+  width: 400px;
+  height: 200px;
+  border-radius: 10px;
+  text-align: center;
+  background-color: white;
+}
+.modal > input {
+  margin-top: 15px;
+}
